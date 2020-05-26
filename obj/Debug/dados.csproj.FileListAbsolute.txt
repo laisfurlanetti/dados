@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\dados\bin\Debug\dados.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\dados\bin\Debug\dados.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\dados\bin\Debug\dados.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\dados\obj\Debug\dados.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\dados\obj\Debug\dados.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\dados\obj\Debug\dados.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\dados\obj\Debug\dados.pdb
